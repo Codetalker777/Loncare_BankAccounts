@@ -1,0 +1,4 @@
+﻿  Loncare_BankAccounts.cpp
+c:\users\lonca\onedrive\desktop\loncare_bankaccounts\loncare_bankaccounts\loncare_bankaccounts.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\lonca\onedrive\desktop\loncare_bankaccounts\loncare_bankaccounts\loncare_bankaccounts.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+  Loncare_BankAccounts.vcxproj -> C:\Users\lonca\OneDrive\Desktop\Loncare_BankAccounts\Debug\Loncare_BankAccounts.exe
